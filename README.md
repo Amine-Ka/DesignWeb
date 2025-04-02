@@ -11,8 +11,8 @@
 ## 📁 Fichier fourni
 
 ```
-Prototype SSLuxury/
-└── projet.xd   # Maquette interactive réalisée avec Adobe XD
+[Prototype SSLuxury/
+└── projet.xd   # Maquette interactive réalisée avec Adobe XD](https://mega.nz/file/z0Ak2TDT#fIRILpTCQcuKD1hMbqelwr7KTarKR2XVs4nSKbjjVx4)
 ```
 
 ## 🛠️ Outils utilisés
