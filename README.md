@@ -39,4 +39,4 @@ Maquette conçue par **Amine**, développeur web passionné de design UX/UI.
 
 ## 📬 Contact
 
-Pour toute collaboration ou projet mobile personnalisé : contact@exemple.com
+Pour toute collaboration ou projet mobile personnalisé : Amine.kad98@gmail.com
